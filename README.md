@@ -1,16 +1,16 @@
 # web-page
 html website styled by css
 
-**File Structure**
-Web-Page
- |
- Index.html
- |
- .stylesheet.css
- |
- Assets
- |__Images
-    |
-    photo.png
-    |
-    photo1.png
+**File Structure**<br>
+Web-Page<br>
+ |<br>
+ Index.html<br>
+ |<br>
+ .stylesheet.css<br>
+ |<br>
+ Assets<br>
+ |__Images<br>
+    |<br>
+    photo.png<br>
+    |<br>
+    photo1.png<br>
