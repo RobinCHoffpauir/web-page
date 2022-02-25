@@ -10,7 +10,7 @@ Web-Page<br>
  |<br>
  Assets<br>
  |__Images<br>
-    |<br>
-    photo.png<br>
-    |<br>
-    photo1.png<br>
+        |<br>
+        photo.png<br>
+        |<br>
+        photo1.png<br>
