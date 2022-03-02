@@ -1,6 +1,7 @@
 .banner {
   background-color: black;
-  color-scheme: white, black;
+  color:green;
+  font: x-large;
 }
 
 @property --rotate {
