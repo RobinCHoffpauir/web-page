@@ -59,8 +59,9 @@ amd.isna().sum()
 
 
 # %%
-amd[['BB_Upper','BB_Middle','BB_Lower']] = bbands
-
+figure = plt.figure()
+amd[100:][['BB_Upper','BB_Middle','BB_Lower']]= bbands
+plt.savefig('BB_Bands.png')
 # %%
 mpf.plot(amd)
 
