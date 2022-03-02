@@ -1,7 +1,22 @@
 .banner {
   background-color: black;
-  color:green;
+  color:azure;
   font: x-large;
+}
+
+.form {
+  background-color: black;
+  color:azure;
+  font: x-large;
+ ;
+}
+
+}
+
+img {
+  height: var(--card-height);
+  width: calc(var(--card-height) * 1.55);
+
 }
 
 @property --rotate {
@@ -11,8 +26,8 @@
   }
   
   :root {
-    --card-height: 65vh;
-    --card-width: calc(var(--card-height) / 1.5);
+    --card-height: 80vh;
+    --card-width: calc(var(--card-height) * 1.975);
   }
   
 
@@ -29,7 +44,7 @@
   }
   
   .card {
-    background: #191c29;
+    background: white;
     width: var(--card-width);
     height: var(--card-height);
     padding: 3px;
@@ -40,13 +55,13 @@
     text-align: center;
     display: flex;
     font-size: 1.5em;
-    color: rgb(88 199 250 / 0%);
+    color: rgba(176, 242, 245, 0.815);
     cursor: pointer;
     font-family: cursive;
   }
   
   .card:hover {
-    color: rgb(88 199 250 / 100%);
+    color: rgb(14, 34, 43);
     transition: color 1s;
   }
   .card:hover:before,
