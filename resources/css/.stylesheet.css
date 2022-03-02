@@ -1,6 +1,6 @@
 .banner {
   background-color: black;
-  color-scheme: purple and green;
+  color-scheme: white, black;
 }
 
 @property --rotate {
