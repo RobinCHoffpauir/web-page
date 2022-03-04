@@ -11,13 +11,9 @@
  ;
 }
 
-}
 
-img {
-  height: var(--card-height);
-  width: calc(var(--card-height) * 1.55);
 
-}
+
 
 @property --rotate {
     syntax: "<angle>";
